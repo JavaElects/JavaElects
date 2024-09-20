@@ -1,3 +1,7 @@
+<div align ="center">
+  <img src="https://github.com/JavaElects/PROJETO_POO_URNA/blob/main/Progama/Urna/src/br/edu/images/Logo.png" width = "500px"/>
+  </div>
+
 ## Hi there 👋
 
 <!--
