@@ -32,6 +32,16 @@
 - [Biblioteca KeyEvent](https://docs.oracle.com/javase/8/docs/api/java/awt/event/KeyEvent.html)
 - [Biblioteca LocalDateTime](https://docs.oracle.com/javase/8/docs/api/java/time/LocalDateTime.html)
 
+# Equipe:
+- [João Gabriel Tito de Moraes](https://github.com/JaoTitow):
+  Fez a idealização do projeto, ajudou com telas e com implementação do teclado numérico.
+- [João Pedro Silva Alves](https://github.com/joaopedrosilva23):
+  Ajudou na idealização do projeto, fez a apresentação e auxiliou na implementação dos candidatos.
+- [Francisco Thiago Cordeiro de Brito](https://github.com/thhiago09):
+  Configuração dos botões e auxílio nas telas.
+- [Levi Faleh](https://github.com/LeviFaleh):
+  Design e maior parte da criação das telas.
+
 
 
 
